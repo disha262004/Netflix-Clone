@@ -13,7 +13,7 @@ body{
  /* main-front  */
 
 .main{
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("netfliximg/netflix.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("netflix.jpg");
     background-size: cover;
     height: 43rem;
     width: 100%;
